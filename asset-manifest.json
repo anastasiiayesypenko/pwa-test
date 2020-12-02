@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anastasiiayesypenko/pwa-test/static/css/main.d4eb9e81.chunk.css",
+    "main.js": "/anastasiiayesypenko/pwa-test/static/js/main.29040674.chunk.js",
+    "main.js.map": "/anastasiiayesypenko/pwa-test/static/js/main.29040674.chunk.js.map",
+    "runtime-main.js": "/anastasiiayesypenko/pwa-test/static/js/runtime-main.d333f106.js",
+    "runtime-main.js.map": "/anastasiiayesypenko/pwa-test/static/js/runtime-main.d333f106.js.map",
+    "static/js/2.c1de4ed1.chunk.js": "/anastasiiayesypenko/pwa-test/static/js/2.c1de4ed1.chunk.js",
+    "static/js/2.c1de4ed1.chunk.js.map": "/anastasiiayesypenko/pwa-test/static/js/2.c1de4ed1.chunk.js.map",
+    "static/js/3.9d6ebd47.chunk.js": "/anastasiiayesypenko/pwa-test/static/js/3.9d6ebd47.chunk.js",
+    "static/js/3.9d6ebd47.chunk.js.map": "/anastasiiayesypenko/pwa-test/static/js/3.9d6ebd47.chunk.js.map",
+    "index.html": "/anastasiiayesypenko/pwa-test/index.html",
+    "service-worker.js": "/anastasiiayesypenko/pwa-test/service-worker.js",
+    "service-worker.js.map": "/anastasiiayesypenko/pwa-test/service-worker.js.map",
+    "static/css/main.d4eb9e81.chunk.css.map": "/anastasiiayesypenko/pwa-test/static/css/main.d4eb9e81.chunk.css.map",
+    "static/js/2.c1de4ed1.chunk.js.LICENSE.txt": "/anastasiiayesypenko/pwa-test/static/js/2.c1de4ed1.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/anastasiiayesypenko/pwa-test/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d333f106.js",
+    "static/js/2.c1de4ed1.chunk.js",
+    "static/css/main.d4eb9e81.chunk.css",
+    "static/js/main.29040674.chunk.js"
+  ]
+}
